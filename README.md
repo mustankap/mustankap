@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m currently working on **multiple projects :P**
-- 🌱 I’m currently learning **Graph Algorithms**
+- 🌱 I’m currently learning **Graph Algorithms NNs and Deep Reinforcement Learning**
 - 👯 I’m looking to collaborate on **anything free and open source**
 
-- 💬 Ask me about **Django, DSA , React, Java, Node**
+- 💬 Ask me about **Django, DSA , React, Java, SQL, Node**
 
 - 📫 How to reach me **mustankap@gmail.com**
 
