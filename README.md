@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/mustansir-kapasi-43a521168/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="mustankap" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mustankap" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="mustankap" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mustankap" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="mustankap" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mustankap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mustankap" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mustankap" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png" alt="mustankap" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mustankap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mustankap" height="30" width="40" /></a>
  <a href="https://binarysearch.com/@/mustankap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mustankap" height="30" width="40" /></a>
  <a href="https:/instagram.com/mustankap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="mustankap" height="30" width="40" /></a>
