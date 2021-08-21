@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mustansir</h1>
-<h3 align="center">A competitive programmer and a Software Engineer </h3>
+<h3 align="center">A Competitive Programmer and a Software Developer </h3>
 
 
 - 🔭 I’m currently working on **multiple projects :P**
