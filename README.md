@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mustankap@gmail.com**
 
-- ⚡ Fun fact **I love solving Math and algorithmic problems. I love creating/drawing comics as a hobby **
+- ⚡ Fun fact **I love solving Math and algorithmic problems. I love creating/drawing comics as a hobby**
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg -->
 <hr>
