@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently working on **multiple projects :P**
-- 🌱 I’m currently learning **Graph Algorithms NNs and Deep Reinforcement Learning**
-- 👯 I’m looking to collaborate on **anything free and open source**
+- 🌱 I’m currently **looking for a full time SWE job**
 
 - 💬 Ask me about **Django, DSA , React, Java, SQL, Node**
 
